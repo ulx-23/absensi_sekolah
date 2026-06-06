@@ -156,7 +156,7 @@ class Dashboard extends CI_Controller {
                 'smtp_host'    => 'ssl://smtp.gmail.com',
                 'smtp_port'    => 465,
                 'smtp_user'    => 'ululazmiul0@gmail.com', // 🟢 Sudah disesuaikan dengan email Anda
-                'smtp_pass'    => 'usoybnyapdkdekxb',      // 🟢 Sudah disesuaikan dengan sandi aplikasi Anda (tanpa spasi)
+                'smtp_pass'    => '',      // 🟢 Sudah disesuaikan dengan sandi aplikasi Anda (tanpa spasi)
                 'mailtype'     => 'html',
                 'charset'      => 'utf-8',
                 'newline'      => "\r\n",
